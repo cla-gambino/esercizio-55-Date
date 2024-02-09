@@ -21,3 +21,5 @@ public class Main {
 
     }
 }
+
+// ho stampato sia la data sia l'ora.
